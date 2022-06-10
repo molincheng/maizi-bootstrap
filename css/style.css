@@ -1,0 +1,182 @@
+﻿body{
+	font-family: "微软雅黑";
+}
+
+.navbar-default{
+	background-color: #FFFFFF;
+	border: none;
+	box-shadow:2px 3px rgba(50,50,50,0.5);
+}
+.navbar-default .navbar-brand{
+	color: #28A4C9;
+	font: bold;
+}
+.navbar-default .navbar-toggle {
+    border-color: #28A4C9;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #28A4C9;
+
+}
+#home{
+	margin-top: px;
+	background: url(../images/home-bg.jpg);
+	background-size: cover;
+	color: #fff;
+	text-align: center;
+	width: 100%;
+}
+.lvjing{
+	width: 100%;
+	height: 100%;
+	background: rgba(50,50,50,0.4);
+	padding: 90px 0;
+}
+#home h1{
+	font-weight: bold;
+	margin-top: 0px;
+	margin-bottom: 25px;
+}
+#home p{
+	font-weight: 400px;
+	line-height: 35px;
+}
+#home img{
+	margin-bottom: 30px;
+	display: inline-block;
+}
+
+#bbs{
+	padding: 80px 0;
+	text-align: center;
+}
+#bbs .col-md-4{
+	padding: 15px;
+}
+#bbs .col-md-4:hover{
+	background: #f1f1f1;
+	box-shadow: 1px 1px 4px #CCC;
+	}
+#bbs a{
+	color: #212121;
+	text-decoration: none;
+}
+#bbs img{
+	margin: 0 auto;
+}
+#bbs h3{
+	font-weight: bold;
+}
+
+#html5{
+	background: #DBDBDB;
+	padding: 60px 0;
+}
+#html5 h2{
+	font-weight: bold;
+}
+#html5 p{
+	line-height: 30px;
+}
+.mai-icon{
+	width: 40px;
+	height: 40px;
+	background: #66AFE9;
+	border-radius: 20px;
+	text-align: center;
+	line-height: 40px;
+	color: green;
+}
+#html5 .img-responsive{
+	width: 350px;
+	margin-top: 20px;
+	margin: 0 auto;
+}
+
+#course{
+	text-align: center;
+}
+#course h2{
+	font-weight: bold;
+	padding-bottom: 25px;
+}
+#course .col-lg-3{
+	margin-bottom: 15px;
+}
+.course img{
+	width: 100%;
+}
+#course .btn{
+	background: #FFF;
+	margin-top: 20px;
+	margin-bottom: 30px;
+	padding: 8px 40px;
+	border: 1px solid #262626;
+	border-radius: 0px;
+	color: #1B6D85;
+	transition: all 1s;
+}
+#course .btn:hover{
+	background: #337AB7;
+	color: #fff;
+}
+
+#app{
+	margin: 50px 0px 50px 0px;
+}
+#app img{
+	border-radius: 10px;
+}
+#app .btn{
+	background: #46B8DA;
+}
+
+
+#contact{
+	color: #fff;
+	background-image: url(../images/contact-bg.png);
+}
+#contact .lvjing{
+		background: rgba(50,50,50,0.4);
+}
+
+#fonter .col-md-6{
+	background: #ADADAD;
+	width: 100%;
+}
+#fonter p{
+	text-align: center;
+	height: auto;
+	line-height: 40px;
+	color:#ffffff ;
+	font-size: 16px;
+}
+
+#form{
+		color: #9D9D9D;
+		font-size: 12px;
+}
+#form .text{
+	width: 48%;
+	height: 40px;
+	text-indent: 1em;
+	margin-bottom: 10px;
+}
+#form .text1{
+	width: 48%;
+	height: 40px;
+	text-indent: 1em;
+	margin-bottom: 10px;
+	float: right;
+}
+#form .text2{
+	width: 100%;
+	height: 40px;
+	margin-bottom: 10px;
+	text-indent: 1em;
+}
+#form textarea{
+	text-indent: 1em;
+	margin-bottom: 10px;
+	width: 100%;
+}
